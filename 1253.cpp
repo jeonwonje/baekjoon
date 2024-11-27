@@ -31,7 +31,7 @@ int main()
           break;
         } else if (i == k) {
           i++;
-        } else if (j = k) {
+        } else if (j == k) {
           j--;
         }
       } else if (sum > find) {
